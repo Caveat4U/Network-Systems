@@ -1,0 +1,6 @@
+[submodule "Network-Systems-PA3"]
+	path = Network-Systems-PA3
+	url = git@github.com:Caveat4U/Network-Systems-PA3.git
+[submodule "Network-Systems-PA4"]
+	path = Network-Systems-PA4
+	url = git@github.com:Caveat4U/Network-Systems-PA4.git
